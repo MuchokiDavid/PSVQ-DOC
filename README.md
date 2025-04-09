@@ -1,6 +1,3 @@
-# PSVQ-DOC
-Here's a downloadable document that outlines the Django models and their relationships in a structured format:
-
 # Django Models Documentation
 
 ## Table of Contents
