@@ -252,9 +252,3 @@ Station
 ├── One-to-Many ── Queue
 └── One-to-Many ── Station_Admin
 ```
-
----
-
-[Download as PDF](#) | [Download as Word Document](#)
-
-Note: The actual downloadable files would be generated using a PDF/Word library in Python with this content formatted appropriately. Would you like me to provide the code to generate these downloadable files programmatically?
